@@ -1,0 +1,19 @@
+.media {
+    display: flex;
+    align-items: flex-start;
+    background: #F6F3EB;
+    padding: 1em;
+    border-radius: 3px;
+    
+}
+.media-object {
+    margin-right: 1em;
+    width: 150px;
+    height: 150px;
+}
+.media-body {
+    flex: 1;
+}
+.media-heading {
+    margin: 0 0 .5em;
+}
